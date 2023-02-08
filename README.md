@@ -1,6 +1,6 @@
 # Benz Blog Scraping
 
-This is a web scraping project using Beautiful Soup. The program will pull data out of [My Blog](https://benz-blog.vercel.app/) then write the name, link and published date of my articles into posts.txt file. 
+This is a web scraping project using Beautiful Soup. The program will pull data out of [My Blog](https://github.com/benztranwot/benz-blog) then write the name, link and published date of my articles into posts.txt file. 
 
 ## How to use
 
